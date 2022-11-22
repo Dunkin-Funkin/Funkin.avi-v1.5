@@ -2,6 +2,10 @@
 
 The official source code of the latest demo release for Funkin.avi.
 
+![530-90_62a67ede7a14a](https://user-images.githubusercontent.com/87618246/203234695-5302ec66-b2d9-4d15-b32b-311767604a43.jpg)
+
+
+
 ## IMPORTANT!:
 
 If you want to complie the mod for no reason:
