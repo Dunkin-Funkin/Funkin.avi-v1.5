@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				610,
+				640
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mickey1 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				610,
+				644
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mickey1 Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				610,
+				643
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mickey1 Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				610,
+				640
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mickey1 Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				618,
+				641
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mickey1 Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mickey1",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "mickey",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-290,
+		-320
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
