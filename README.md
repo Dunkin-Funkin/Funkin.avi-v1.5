@@ -19,3 +19,5 @@ MSVC v142 - VS 2019 C++ x64/x86 build tools
 Windows SDK (10.0.17763.0)
 ```
 6) Finally run Installation.bat for get all the components
+
+![Repo size](https://img.shields.io/github/repo-size/Dunkin-Funkin/Funkin.avi-v1.5)
